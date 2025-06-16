@@ -1,6 +1,14 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
+
+    // This is my first program
+
+    /*
+        This is a multi-line comment
+    */
+
+    printf("I like pizza\n");
+    printf("It is Yummy\n");
     return 0;
 }
