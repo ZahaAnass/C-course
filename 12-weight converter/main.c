@@ -16,13 +16,13 @@ int main() {
 
     if (choice == 1){
         // Kilograms to pounds
-        printf("Enter the weight in kilograms");
+        printf("Enter the weight in kilograms: ");
         scanf("%f", &kilograms);
         pounds = kilograms * 2.20462;
         printf("The weight in pounds is: %.2f\n", pounds);
     }else if (choice == 2){
         // Pounds to Kilograms
-        printf("Enter the weight in pounds");
+        printf("Enter the weight in pounds: ");
         scanf("%f", &pounds);
         kilograms = pounds / 2.20462;
         printf("The weight in kilograms is: %.2f\n", kilograms);
