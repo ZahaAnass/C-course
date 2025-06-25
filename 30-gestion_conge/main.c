@@ -187,5 +187,5 @@ void display_menu() {
     printf("5. Show Leave Balance\n");
     printf("6. Sort Employees by Name\n");
     printf("7. Exit\n");
-    printf("Choice: ");
+    printf("Enter Your Choice: ");
 }

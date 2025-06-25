@@ -7,7 +7,7 @@ LDFLAGS = -lm
 SRC_DIR = src
 SRCS = $(wildcard $(SRC_DIR)/*.c)
 OBJS = $(SRCS:.c=.o) main.o
-TARGET = gestion_conge
+TARGET = leave_management
 
 # Default target
 all: $(TARGET)
