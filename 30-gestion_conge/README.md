@@ -50,7 +50,11 @@ A command-line Leave Management System written in C that allows managing employe
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/yourusername/leave-management-system.git](https://github.com/yourusername/leave-management-system.git)
+   # SSH
+   git clone git@github.com:ZahaAnass/leave-management-system.git
+   # HTTPS
+   git clone https://github.com/ZahaAnass/leave-management-system.git
+   # Change directoy to this project after cloning
    cd leave-management-system
 
 ## Build
