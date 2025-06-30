@@ -34,8 +34,8 @@ dijital-clock/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd 48-dijital-clock
+   git clone git@github.com:ZahaAnass/Dijtal-clock-c.git
+   cd Dijtal-clock-c
    ```
 
 2. Build the project:
@@ -86,5 +86,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
-Anass Zaha  
-https://github.com/ZahaAnass
+<div style="text-align: center;">
+    <p>Anass Zaha</p>
+    <p>https://github.com/ZahaAnass</p>
+</div>
